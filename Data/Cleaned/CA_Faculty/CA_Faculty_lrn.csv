@@ -1,0 +1,49 @@
+service,Value,Percentage,service_long
+LRN_CMS,Not Interested,15.6,Canvas
+LRN_CMS,Somewhat Interested,35.9,Canvas
+LRN_CMS,Interested,40.6,Canvas
+LRN_CMS,Very Interested,7.8,Canvas
+LRN_FEI,Not Interested,28.8,Finding_and_evaluating_information_for_your_scholarship
+LRN_FEI,Somewhat Interested,25.8,Finding_and_evaluating_information_for_your_scholarship
+LRN_FEI,Interested,39.4,Finding_and_evaluating_information_for_your_scholarship
+LRN_FEI,Very Interested,6.1,Finding_and_evaluating_information_for_your_scholarship
+LRN_GAIT,Not Interested,6.1,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+LRN_GAIT,Somewhat Interested,22.7,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+LRN_GAIT,Interested,40.9,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+LRN_GAIT,Very Interested,30.3,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+LRN_LDL,Not Interested,23.1,LibrarySearch_(https:__go.middlebury.edu_primoca)
+LRN_LDL,Somewhat Interested,35.4,LibrarySearch_(https:__go.middlebury.edu_primoca)
+LRN_LDL,Interested,36.9,LibrarySearch_(https:__go.middlebury.edu_primoca)
+LRN_LDL,Very Interested,4.6,LibrarySearch_(https:__go.middlebury.edu_primoca)
+LRN_OOO,Not Interested,23.8,Learning_new_skills_by_One-on-one_instruction
+LRN_OOO,Somewhat Interested,17.5,Learning_new_skills_by_One-on-one_instruction
+LRN_OOO,Interested,36.5,Learning_new_skills_by_One-on-one_instruction
+LRN_OOO,Very Interested,22.2,Learning_new_skills_by_One-on-one_instruction
+LRN_PGL,Not Interested,24.2,Learning_new_skills_by_Peer_group_learning
+LRN_PGL,Somewhat Interested,24.2,Learning_new_skills_by_Peer_group_learning
+LRN_PGL,Interested,37.1,Learning_new_skills_by_Peer_group_learning
+LRN_PGL,Very Interested,14.5,Learning_new_skills_by_Peer_group_learning
+LRN_PIRO,Not Interested,18.2,Protecting_your_identity_and_reputation_online
+LRN_PIRO,Somewhat Interested,21.2,Protecting_your_identity_and_reputation_online
+LRN_PIRO,Interested,39.4,Protecting_your_identity_and_reputation_online
+LRN_PIRO,Very Interested,21.2,Protecting_your_identity_and_reputation_online
+LRN_SDD,Not Interested,14.1,Learning_new_skills_by_Self-directed_with_documentation
+LRN_SDD,Somewhat Interested,34.4,Learning_new_skills_by_Self-directed_with_documentation
+LRN_SDD,Interested,34.4,Learning_new_skills_by_Self-directed_with_documentation
+LRN_SDD,Very Interested,17.2,Learning_new_skills_by_Self-directed_with_documentation
+LRN_SDOT,Not Interested,12.5,Learning_new_skills_by_Self-directed_with_online_tutorial
+LRN_SDOT,Somewhat Interested,29.7,Learning_new_skills_by_Self-directed_with_online_tutorial
+LRN_SDOT,Interested,37.5,Learning_new_skills_by_Self-directed_with_online_tutorial
+LRN_SDOT,Very Interested,20.3,Learning_new_skills_by_Self-directed_with_online_tutorial
+LRN_TE,Not Interested,31.1,Learning_new_skills_by_Trial_and_error
+LRN_TE,Somewhat Interested,32.8,Learning_new_skills_by_Trial_and_error
+LRN_TE,Interested,26.2,Learning_new_skills_by_Trial_and_error
+LRN_TE,Very Interested,9.8,Learning_new_skills_by_Trial_and_error
+LRN_TMS,Not Interested,18.8,Technology_in_meeting_spaces_classrooms
+LRN_TMS,Somewhat Interested,34.4,Technology_in_meeting_spaces_classrooms
+LRN_TMS,Interested,37.5,Technology_in_meeting_spaces_classrooms
+LRN_TMS,Very Interested,9.4,Technology_in_meeting_spaces_classrooms
+LRN_WTS,Not Interested,15.6,Learning_new_skills_by_Workshop_Training_Session
+LRN_WTS,Somewhat Interested,21.9,Learning_new_skills_by_Workshop_Training_Session
+LRN_WTS,Interested,40.6,Learning_new_skills_by_Workshop_Training_Session
+LRN_WTS,Very Interested,21.9,Learning_new_skills_by_Workshop_Training_Session

@@ -1,0 +1,36 @@
+service,Value,Percentage,service_long
+USE_BL,Never,73.9,Borrowing_laptops
+USE_BL,Once or twice a semester,23.5,Borrowing_laptops
+USE_BL,One to three times a month,1.1,Borrowing_laptops
+USE_BL,One to three times a week,0.7,Borrowing_laptops
+USE_BL,More than 3 times a week,0.9,Borrowing_laptops
+USE_CMS,Never,77.2,Canvas
+USE_CMS,Once or twice a semester,9.6,Canvas
+USE_CMS,One to three times a month,4.3,Canvas
+USE_CMS,One to three times a week,4.3,Canvas
+USE_CMS,More than 3 times a week,4.6,Canvas
+USE_CS,Never,41.1,Online_collaborative_software
+USE_CS,Once or twice a semester,10.4,Online_collaborative_software
+USE_CS,One to three times a month,8.4,Online_collaborative_software
+USE_CS,One to three times a week,9.3,Online_collaborative_software
+USE_CS,More than 3 times a week,30.9,Online_collaborative_software
+USE_FPC,Never,19.0,Technology_help_desk
+USE_FPC,Once or twice a semester,58.8,Technology_help_desk
+USE_FPC,One to three times a month,19.4,Technology_help_desk
+USE_FPC,One to three times a week,2.6,Technology_help_desk
+USE_FPC,More than 3 times a week,0.2,Technology_help_desk
+USE_GAIT,Never,81.8,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,Once or twice a semester,8.9,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,One to three times a month,5.2,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,One to three times a week,1.7,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,More than 3 times a week,2.4,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_STMS,Never,60.1,Support_for_technology_in_meeting_spaces_classrooms
+USE_STMS,Once or twice a semester,28.5,Support_for_technology_in_meeting_spaces_classrooms
+USE_STMS,One to three times a month,8.3,Support_for_technology_in_meeting_spaces_classrooms
+USE_STMS,One to three times a week,2.4,Support_for_technology_in_meeting_spaces_classrooms
+USE_STMS,More than 3 times a week,0.7,Support_for_technology_in_meeting_spaces_classrooms
+USE_TMS,Never,37.4,Technology_in_meeting_spaces_classrooms
+USE_TMS,Once or twice a semester,25.9,Technology_in_meeting_spaces_classrooms
+USE_TMS,One to three times a month,14.1,Technology_in_meeting_spaces_classrooms
+USE_TMS,One to three times a week,14.9,Technology_in_meeting_spaces_classrooms
+USE_TMS,More than 3 times a week,7.7,Technology_in_meeting_spaces_classrooms

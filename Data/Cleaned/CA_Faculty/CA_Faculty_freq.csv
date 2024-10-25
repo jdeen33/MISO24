@@ -1,0 +1,116 @@
+service,Value,Percentage,service_long
+USE_AORO,Never,17.6,Access_to_online_resources_from_off-campus
+USE_AORO,Once or twice a semester,17.6,Access_to_online_resources_from_off-campus
+USE_AORO,One to three times a month,13.5,Access_to_online_resources_from_off-campus
+USE_AORO,One to three times a week,9.5,Access_to_online_resources_from_off-campus
+USE_AORO,More than three times a week,41.9,Access_to_online_resources_from_off-campus
+USE_CFUS,Never,72.2,Copyright_and_Fair_Use_support
+USE_CFUS,Once or twice a semester,25.0,Copyright_and_Fair_Use_support
+USE_CFUS,One to three times a month,1.4,Copyright_and_Fair_Use_support
+USE_CFUS,More than three times a week,1.4,Copyright_and_Fair_Use_support
+USE_CMS,Never,6.8,Canvas
+USE_CMS,Once or twice a semester,2.7,Canvas
+USE_CMS,One to three times a month,1.4,Canvas
+USE_CMS,One to three times a week,9.5,Canvas
+USE_CMS,More than three times a week,79.7,Canvas
+USE_CMSAS,Never,22.2,Canvas_assignment_submission
+USE_CMSAS,Once or twice a semester,2.8,Canvas_assignment_submission
+USE_CMSAS,One to three times a month,8.3,Canvas_assignment_submission
+USE_CMSAS,One to three times a week,25.0,Canvas_assignment_submission
+USE_CMSAS,More than three times a week,41.7,Canvas_assignment_submission
+USE_CMSGB,Never,47.9,Canvas_grade_book
+USE_CMSGB,Once or twice a semester,5.6,Canvas_grade_book
+USE_CMSGB,One to three times a month,8.5,Canvas_grade_book
+USE_CMSGB,One to three times a week,11.3,Canvas_grade_book
+USE_CMSGB,More than three times a week,26.8,Canvas_grade_book
+USE_CMSOQ,Never,60.9,Canvas_online_quizzes
+USE_CMSOQ,Once or twice a semester,15.9,Canvas_online_quizzes
+USE_CMSOQ,One to three times a month,10.1,Canvas_online_quizzes
+USE_CMSOQ,One to three times a week,5.8,Canvas_online_quizzes
+USE_CMSOQ,More than three times a week,7.2,Canvas_online_quizzes
+USE_CS,Never,40.0,Online_collaborative_software
+USE_CS,Once or twice a semester,11.4,Online_collaborative_software
+USE_CS,One to three times a month,10.0,Online_collaborative_software
+USE_CS,One to three times a week,14.3,Online_collaborative_software
+USE_CS,More than three times a week,24.3,Online_collaborative_software
+USE_FPC,Never,16.2,Technology_help_desk
+USE_FPC,Once or twice a semester,58.1,Technology_help_desk
+USE_FPC,One to three times a month,20.3,Technology_help_desk
+USE_FPC,One to three times a week,5.4,Technology_help_desk
+USE_GAIT,Never,28.8,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,Once or twice a semester,21.9,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,One to three times a month,21.9,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,One to three times a week,13.7,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,More than three times a week,13.7,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_HPC,Never,79.7,High_performance_computing
+USE_HPC,Once or twice a semester,8.1,High_performance_computing
+USE_HPC,One to three times a month,1.4,High_performance_computing
+USE_HPC,One to three times a week,5.4,High_performance_computing
+USE_HPC,More than three times a week,5.4,High_performance_computing
+USE_IDS,Never,36.6,DLINQ_Instructional_Design_Services
+USE_IDS,Once or twice a semester,45.1,DLINQ_Instructional_Design_Services
+USE_IDS,One to three times a month,11.3,DLINQ_Instructional_Design_Services
+USE_IDS,One to three times a week,7.0,DLINQ_Instructional_Design_Services
+USE_ITS,Never,23.0,Instructional_technology_support
+USE_ITS,Once or twice a semester,60.8,Instructional_technology_support
+USE_ITS,One to three times a month,12.2,Instructional_technology_support
+USE_ITS,One to three times a week,4.1,Instructional_technology_support
+USE_LC,Never,51.4,Physical_library_collections
+USE_LC,Once or twice a semester,31.1,Physical_library_collections
+USE_LC,One to three times a month,13.5,Physical_library_collections
+USE_LC,One to three times a week,2.7,Physical_library_collections
+USE_LC,More than three times a week,1.4,Physical_library_collections
+USE_LDB,Never,31.1,Library_databases_(e.g._JSTOR)
+USE_LDB,Once or twice a semester,23.0,Library_databases_(e.g._JSTOR)
+USE_LDB,One to three times a month,20.3,Library_databases_(e.g._JSTOR)
+USE_LDB,One to three times a week,16.2,Library_databases_(e.g._JSTOR)
+USE_LDB,More than three times a week,9.5,Library_databases_(e.g._JSTOR)
+USE_LDL,Never,40.5,LibrarySearch_(go_primoca)
+USE_LDL,Once or twice a semester,20.3,LibrarySearch_(go_primoca)
+USE_LDL,One to three times a month,21.6,LibrarySearch_(go_primoca)
+USE_LDL,One to three times a week,12.2,LibrarySearch_(go_primoca)
+USE_LDL,More than three times a week,5.4,LibrarySearch_(go_primoca)
+USE_LEC,Never,34.2,Library_e-book_collections
+USE_LEC,Once or twice a semester,34.2,Library_e-book_collections
+USE_LEC,One to three times a month,20.5,Library_e-book_collections
+USE_LEC,One to three times a week,6.8,Library_e-book_collections
+USE_LEC,More than three times a week,4.1,Library_e-book_collections
+USE_LIAC,Never,46.7,Library_research_instruction_for_academic_courses
+USE_LIAC,Once or twice a semester,37.3,Library_research_instruction_for_academic_courses
+USE_LIAC,One to three times a month,12.0,Library_research_instruction_for_academic_courses
+USE_LIAC,One to three times a week,1.3,Library_research_instruction_for_academic_courses
+USE_LIAC,More than three times a week,2.7,Library_research_instruction_for_academic_courses
+USE_LRS,Never,25.0,Library_reference_research_services
+USE_LRS,Once or twice a semester,34.7,Library_reference_research_services
+USE_LRS,One to three times a month,20.8,Library_reference_research_services
+USE_LRS,One to three times a week,12.5,Library_reference_research_services
+USE_LRS,More than three times a week,6.9,Library_reference_research_services
+USE_LWS,Never,21.6,Institute_Library_web_site_(go_miislibrary)_(e.g._library_hours__policies)
+USE_LWS,Once or twice a semester,40.5,Institute_Library_web_site_(go_miislibrary)_(e.g._library_hours__policies)
+USE_LWS,One to three times a month,18.9,Institute_Library_web_site_(go_miislibrary)_(e.g._library_hours__policies)
+USE_LWS,One to three times a week,10.8,Institute_Library_web_site_(go_miislibrary)_(e.g._library_hours__policies)
+USE_LWS,More than three times a week,8.1,Institute_Library_web_site_(go_miislibrary)_(e.g._library_hours__policies)
+USE_OAV,Never,17.8,Online_audio_video_for_academic_or_work_purposes
+USE_OAV,Once or twice a semester,11.0,Online_audio_video_for_academic_or_work_purposes
+USE_OAV,One to three times a month,11.0,Online_audio_video_for_academic_or_work_purposes
+USE_OAV,One to three times a week,20.5,Online_audio_video_for_academic_or_work_purposes
+USE_OAV,More than three times a week,39.7,Online_audio_video_for_academic_or_work_purposes
+USE_OWS,Never,34.2,DLINQ_website
+USE_OWS,Once or twice a semester,45.2,DLINQ_website
+USE_OWS,One to three times a month,17.8,DLINQ_website
+USE_OWS,One to three times a week,2.7,DLINQ_website
+USE_PCR,Never,68.5,Physical_course_reserves
+USE_PCR,Once or twice a semester,21.9,Physical_course_reserves
+USE_PCR,One to three times a month,6.8,Physical_course_reserves
+USE_PCR,One to three times a week,1.4,Physical_course_reserves
+USE_PCR,More than three times a week,1.4,Physical_course_reserves
+USE_STMS,Never,19.7,Support_for_technology_in_meeting_spaces_classrooms
+USE_STMS,Once or twice a semester,43.7,Support_for_technology_in_meeting_spaces_classrooms
+USE_STMS,One to three times a month,15.5,Support_for_technology_in_meeting_spaces_classrooms
+USE_STMS,One to three times a week,14.1,Support_for_technology_in_meeting_spaces_classrooms
+USE_STMS,More than three times a week,7.0,Support_for_technology_in_meeting_spaces_classrooms
+USE_TMS,Never,17.8,Technology_in_meeting_spaces_classrooms
+USE_TMS,Once or twice a semester,8.2,Technology_in_meeting_spaces_classrooms
+USE_TMS,One to three times a month,6.8,Technology_in_meeting_spaces_classrooms
+USE_TMS,One to three times a week,31.5,Technology_in_meeting_spaces_classrooms
+USE_TMS,More than three times a week,35.6,Technology_in_meeting_spaces_classrooms

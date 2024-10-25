@@ -1,0 +1,17 @@
+service,Value,Percentage,service_long
+INF_AAT,Not Informed,50.9,Availability_of_assistive_technologies_to_address_disabilities
+INF_AAT,Somewhat Informed,32.6,SAvailability_of_assistive_technologies_to_address_disabilities
+INF_AAT,Informed,14.0,Availability_of_assistive_technologies_to_address_disabilities
+INF_AAT,Very Informed,2.5,Availability_of_assistive_technologies_to_address_disabilities
+INF_ATRW,Not Informed,44.1,Availability_of_technology_learning_resources_and_workshops
+INF_ATRW,Somewhat Informed,39.4,Availability_of_technology_learning_resources_and_workshops
+INF_ATRW,Informed,14.9,Availability_of_technology_learning_resources_and_workshops
+INF_ATRW,Very Informed,1.6,Availability_of_technology_learning_resources_and_workshops
+INF_ATS,Not Informed,14.3,Available_technology_services
+INF_ATS,Somewhat Informed,56.2,Available_technology_services
+INF_ATS,Informed,26.4,Available_technology_services
+INF_ATS,Very Informed,3.1,Available_technology_services
+INF_GAIT,Not Informed,29.9,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+INF_GAIT,Somewhat Informed,47.0,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+INF_GAIT,Informed,18.4,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+INF_GAIT,Very Informed,4.7,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)

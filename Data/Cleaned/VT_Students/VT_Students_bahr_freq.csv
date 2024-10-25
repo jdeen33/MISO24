@@ -1,0 +1,77 @@
+service,Value,Percentage,service_long
+USE_BL,Never,86.5,Borrowing_laptops
+USE_BL,Once/Twice Per Semester,10.4,Borrowing_laptops
+USE_BL,Monthly,2.5,Borrowing_laptops
+USE_BL,Weekly,0.5,Borrowing_laptops
+USE_BTE,Never,69.2,Borrowing_technology_equipment
+USE_BTE,Once/Twice Per Semester,23.6,Borrowing_technology_equipment
+USE_BTE,Monthly,3.6,Borrowing_technology_equipment
+USE_BTE,Weekly,2.5,Borrowing_technology_equipment
+USE_BTE,Daily,1.1,Borrowing_technology_equipment
+USE_CMS,Once/Twice Per Semester,0.8,Canvas
+USE_CMS,Weekly,1.4,Canvas
+USE_CMS,Daily,97.8,Canvas
+USE_CMSAS,Never,0.3,Canvas_assignment_submission
+USE_CMSAS,Monthly,5.4,Canvas_assignment_submission
+USE_CMSAS,Weekly,27.4,Canvas_assignment_submission
+USE_CMSAS,Daily,66.9,Canvas_assignment_submission
+USE_CMSGB,Never,9.4,Canvas_grade_book
+USE_CMSGB,Once/Twice Per Semester,12.7,Canvas_grade_book
+USE_CMSGB,Monthly,18.0,Canvas_grade_book
+USE_CMSGB,Weekly,32.1,Canvas_grade_book
+USE_CMSGB,Daily,27.7,Canvas_grade_book
+USE_CMSOQ,Never,16.3,Canvas_online_quizzes
+USE_CMSOQ,Once/Twice Per Semester,23.0,Canvas_online_quizzes
+USE_CMSOQ,Monthly,22.7,Canvas_online_quizzes
+USE_CMSOQ,Weekly,25.2,Canvas_online_quizzes
+USE_CMSOQ,Daily,12.7,Canvas_online_quizzes
+USE_FPC,Never,50.1,Technology_help_desk
+USE_FPC,Once/Twice Per Semester,40.5,Technology_help_desk
+USE_FPC,Monthly,7.9,Technology_help_desk
+USE_FPC,Weekly,0.5,Technology_help_desk
+USE_FPC,Daily,0.8,Technology_help_desk
+USE_GAIT,Never,36.2,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,Once/Twice Per Semester,22.1,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,Monthly,17.1,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,Weekly,16.3,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,Daily,8.3,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GSSL,Never,14.5,Group_study_spaces_in_the_library
+USE_GSSL,Once/Twice Per Semester,30.4,Group_study_spaces_in_the_library
+USE_GSSL,Monthly,28.5,Group_study_spaces_in_the_library
+USE_GSSL,Weekly,16.4,Group_study_spaces_in_the_library
+USE_GSSL,Daily,10.1,Group_study_spaces_in_the_library
+USE_ILL,Never,43.1,Interlibrary_loan
+USE_ILL,Once/Twice Per Semester,35.4,Interlibrary_loan
+USE_ILL,Monthly,16.9,Interlibrary_loan
+USE_ILL,Weekly,2.5,Interlibrary_loan
+USE_ILL,Daily,2.2,Interlibrary_loan
+USE_LC,Never,39.3,Physical_library_collections
+USE_LC,Once/Twice Per Semester,36.6,Physical_library_collections
+USE_LC,Monthly,18.6,Physical_library_collections
+USE_LC,Weekly,3.3,Physical_library_collections
+USE_LC,Daily,2.2,Physical_library_collections
+USE_LDB,Never,12.2,Library_databases_(e.g._JSTOR)
+USE_LDB,Once/Twice Per Semester,27.1,Library_databases_(e.g._JSTOR)
+USE_LDB,Monthly,35.9,Library_databases_(e.g._JSTOR)
+USE_LDB,Weekly,18.8,Library_databases_(e.g._JSTOR)
+USE_LDB,Daily,6.1,Library_databases_(e.g._JSTOR)
+USE_LDL,Never,55.7,LibrarySearch_(go_primo)
+USE_LDL,Once/Twice Per Semester,21.3,LibrarySearch_(go_primo)
+USE_LDL,Monthly,15.2,LibrarySearch_(go_primo)
+USE_LDL,Weekly,5.3,LibrarySearch_(go_primo)
+USE_LDL,Daily,2.5,LibrarySearch_(go_primo)
+USE_LEC,Never,36.6,Library_e-book_collections
+USE_LEC,Once/Twice Per Semester,33.0,Library_e-book_collections
+USE_LEC,Monthly,21.1,Library_e-book_collections
+USE_LEC,Weekly,5.8,Library_e-book_collections
+USE_LEC,Daily,3.6,Library_e-book_collections
+USE_LRS,Never,18.5,Library_reference_research_services
+USE_LRS,Once/Twice Per Semester,35.8,Library_reference_research_services
+USE_LRS,Monthly,29.8,Library_reference_research_services
+USE_LRS,Weekly,12.4,Library_reference_research_services
+USE_LRS,Daily,3.6,Library_reference_research_services
+USE_LSG,Never,64.8,Library_Subject_Guides_(go_guides)
+USE_LSG,Once/Twice Per Semester,21.6,Library_Subject_Guides_(go_guides)
+USE_LSG,Monthly,10.2,Library_Subject_Guides_(go_guides)
+USE_LSG,Weekly,2.2,Library_Subject_Guides_(go_guides)
+USE_LSG,Daily,1.1,Library_Subject_Guides_(go_guides)

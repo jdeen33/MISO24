@@ -1,0 +1,99 @@
+service,Value,Percentage,service_long
+USE_BL,Never,89.2,Borrowing_laptops
+USE_BL,Once or twice per semester,7.5,Borrowing_laptops
+USE_BL,One to three times a month,1.7,Borrowing_laptops
+USE_BL,One to three times a week,0.4,Borrowing_laptops
+USE_BL,More than three times a week,1.3,Borrowing_laptops
+USE_BTE,Never,80.8,Borrowing_technology_equipment
+USE_BTE,Once or twice per semester,15.9,Borrowing_technology_equipment
+USE_BTE,One to three times a month,2.1,Borrowing_technology_equipment
+USE_BTE,More than three times a week,1.3,Borrowing_technology_equipment
+USE_CMS,Once or twice per semester,1.2,Canvas
+USE_CMS,One to three times a month,0.4,Canvas
+USE_CMS,One to three times a week,4.1,Canvas
+USE_CMS,More than three times a week,94.2,Canvas
+USE_CMSAS,Never,1.2,Canvas_assignment_submission
+USE_CMSAS,Once or twice per semester,3.7,Canvas_assignment_submission
+USE_CMSAS,One to three times a month,10.0,Canvas_assignment_submission
+USE_CMSAS,One to three times a week,20.3,Canvas_assignment_submission
+USE_CMSAS,More than three times a week,64.7,Canvas_assignment_submission
+USE_CMSGB,Never,21.5,Canvas_grade_book
+USE_CMSGB,Once or twice per semester,18.1,Canvas_grade_book
+USE_CMSGB,One to three times a month,19.8,Canvas_grade_book
+USE_CMSGB,One to three times a week,20.3,Canvas_grade_book
+USE_CMSGB,More than three times a week,20.3,Canvas_grade_book
+USE_CMSOQ,Never,21.2,Canvas_online_quizzes
+USE_CMSOQ,Once or twice per semester,21.6,Canvas_online_quizzes
+USE_CMSOQ,One to three times a month,19.1,Canvas_online_quizzes
+USE_CMSOQ,One to three times a week,21.2,Canvas_online_quizzes
+USE_CMSOQ,More than three times a week,16.9,Canvas_online_quizzes
+USE_CS,Never,12.2,Online_collaborative_software
+USE_CS,Once or twice per semester,13.9,Online_collaborative_software
+USE_CS,One to three times a month,14.7,Online_collaborative_software
+USE_CS,One to three times a week,21.4,Online_collaborative_software
+USE_CS,More than three times a week,37.8,Online_collaborative_software
+USE_FPC,Never,47.3,Technology_help_desk
+USE_FPC,Once or twice per semester,37.2,Technology_help_desk
+USE_FPC,One to three times a month,11.7,Technology_help_desk
+USE_FPC,One to three times a week,2.5,Technology_help_desk
+USE_FPC,More than three times a week,1.3,Technology_help_desk
+USE_GAIT,Never,18.3,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,Once or twice per semester,13.3,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,One to three times a month,17.9,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,One to three times a week,22.9,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GAIT,More than three times a week,27.5,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+USE_GSSL,Never,40.7,Group_study_spaces_in_the_library
+USE_GSSL,Once or twice per semester,18.7,Group_study_spaces_in_the_library
+USE_GSSL,One to three times a month,14.5,Group_study_spaces_in_the_library
+USE_GSSL,One to three times a week,13.7,Group_study_spaces_in_the_library
+USE_GSSL,More than three times a week,12.4,Group_study_spaces_in_the_library
+USE_ILL,Never,70.3,Interlibrary_loan
+USE_ILL,Once or twice per semester,23.0,Interlibrary_loan
+USE_ILL,One to three times a month,3.8,Interlibrary_loan
+USE_ILL,One to three times a week,1.3,Interlibrary_loan
+USE_ILL,More than three times a week,1.7,Interlibrary_loan
+USE_LC,Never,50.6,Physical_library_collections
+USE_LC,Once or twice per semester,28.3,Physical_library_collections
+USE_LC,One to three times a month,14.8,Physical_library_collections
+USE_LC,One to three times a week,4.2,Physical_library_collections
+USE_LC,More than three times a week,2.1,Physical_library_collections
+USE_LDB,Never,32.2,Library_databases_(e.g._JSTOR)
+USE_LDB,Once or twice per semester,26.8,Library_databases_(e.g._JSTOR)
+USE_LDB,One to three times a month,18.4,Library_databases_(e.g._JSTOR)
+USE_LDB,One to three times a week,13.8,Library_databases_(e.g._JSTOR)
+USE_LDB,More than three times a week,8.8,Library_databases_(e.g._JSTOR)
+USE_LDL,Never,41.8,LibrarySearch_(go_primoca)
+USE_LDL,Once or twice per semester,27.6,LibrarySearch_(go_primoca)
+USE_LDL,One to three times a month,19.7,LibrarySearch_(go_primoca)
+USE_LDL,One to three times a week,7.9,LibrarySearch_(go_primoca)
+USE_LDL,More than three times a week,2.9,LibrarySearch_(go_primoca)
+USE_LEC,Never,38.8,Library_e-book_collections
+USE_LEC,Once or twice per semester,32.1,Library_e-book_collections
+USE_LEC,One to three times a month,21.7,Library_e-book_collections
+USE_LEC,One to three times a week,5.4,Library_e-book_collections
+USE_LEC,More than three times a week,2.1,Library_e-book_collections
+USE_LRS,Never,18.4,Library_reference_research_services
+USE_LRS,Once or twice per semester,33.1,Library_reference_research_services
+USE_LRS,One to three times a month,29.7,Library_reference_research_services
+USE_LRS,One to three times a week,12.6,Library_reference_research_services
+USE_LRS,More than three times a week,6.3,Library_reference_research_services
+USE_LSG,Never,57.0,Library_subject_guides
+USE_LSG,Once or twice per semester,27.0,Library_subject_guides
+USE_LSG,One to three times a month,12.7,Library_subject_guides
+USE_LSG,One to three times a week,3.0,Library_subject_guides
+USE_LSG,More than three times a week,0.4,Library_subject_guides
+USE_LWS,Never,37.9,Library_Web_site_(e.g._library_hours__policies)
+USE_LWS,Once or twice per semester,32.1,Library_Web_site_(e.g._library_hours__policies)
+USE_LWS,One to three times a month,22.1,Library_Web_site_(e.g._library_hours__policies)
+USE_LWS,One to three times a week,5.0,Library_Web_site_(e.g._library_hours__policies)
+USE_LWS,More than three times a week,2.9,Library_Web_site_(e.g._library_hours__policies)
+USE_PCL,Never,55.2,Public_computers_in_the_library
+USE_PCL,Once or twice per semester,23.2,Public_computers_in_the_library
+USE_PCL,One to three times a month,15.4,Public_computers_in_the_library
+USE_PCL,One to three times a week,4.1,Public_computers_in_the_library
+USE_PCL,More than three times a week,2.1,Public_computers_in_the_library
+USE_QWSL,Never,32.0,Quiet_work_space_in_the_library
+USE_QWSL,Once or twice per semester,14.9,Quiet_work_space_in_the_library
+USE_QWSL,One to three times a month,15.4,Quiet_work_space_in_the_library
+USE_QWSL,One to three times a week,19.1,Quiet_work_space_in_the_library
+USE_QWSL,More than three times a week,18.7,Quiet_work_space_in_the_library

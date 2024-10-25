@@ -1,0 +1,88 @@
+service,Value,Percentage,service_long
+DS_AWAC,Dissatisfied,1.0,Availability_of_wireless_access_on_campus
+DS_AWAC,Somewhat Dissatisfied,9.4,Availability_of_wireless_access_on_campus
+DS_AWAC,Somewhat Satisfied,30.5,Availability_of_wireless_access_on_campus
+DS_AWAC,Satisfied,59.1,Availability_of_wireless_access_on_campus
+DS_BL,Dissatisfied,1.4,Borrowing_laptops
+DS_BL,Somewhat Dissatisfied,4.2,Borrowing_laptops
+DS_BL,Somewhat Satisfied,22.5,Borrowing_laptops
+DS_BL,Satisfied,71.8,Borrowing_laptops
+DS_BTE,Dissatisfied,0.6,Borrowing_technology_equipment
+DS_BTE,Somewhat Dissatisfied,2.2,Borrowing_technology_equipment
+DS_BTE,Somewhat Satisfied,23.8,Borrowing_technology_equipment
+DS_BTE,Satisfied,73.5,Borrowing_technology_equipment
+DS_CFCPS,Dissatisfied,0.9,Technology_help_desk_schedule
+DS_CFCPS,Somewhat Dissatisfied,6.0,Technology_help_desk_schedule
+DS_CFCPS,Somewhat Satisfied,27.6,Technology_help_desk_schedule
+DS_CFCPS,Satisfied,65.4,Technology_help_desk_schedule
+DS_CMS,Dissatisfied,0.3,Canvas
+DS_CMS,Somewhat Dissatisfied,2.8,Canvas
+DS_CMS,Somewhat Satisfied,17.3,Canvas
+DS_CMS,Satisfied,79.6,Canvas
+DS_CMSAS,Dissatisfied,0.6,Canvas_assignment_submission
+DS_CMSAS,Somewhat Dissatisfied,1.9,Canvas_assignment_submission
+DS_CMSAS,Somewhat Satisfied,19.2,Canvas_assignment_submission
+DS_CMSAS,Satisfied,78.3,Canvas_assignment_submission
+DS_CMSGB,Dissatisfied,3.6,Canvas_grade_book
+DS_CMSGB,Somewhat Dissatisfied,9.9,Canvas_grade_book
+DS_CMSGB,Somewhat Satisfied,24.4,Canvas_grade_book
+DS_CMSGB,Satisfied,62.0,Canvas_grade_book
+DS_CMSOQ,Dissatisfied,0.3,Canvas_online_quizzes
+DS_CMSOQ,Somewhat Dissatisfied,7.0,Canvas_online_quizzes
+DS_CMSOQ,Somewhat Satisfied,25.4,Canvas_online_quizzes
+DS_CMSOQ,Satisfied,67.2,Canvas_online_quizzes
+DS_FPC,Dissatisfied,1.7,Technology_help_desk
+DS_FPC,Somewhat Dissatisfied,6.6,Technology_help_desk
+DS_FPC,Somewhat Satisfied,25.8,Technology_help_desk
+DS_FPC,Satisfied,65.9,Technology_help_desk
+DS_GAIT,Dissatisfied,5.1,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_GAIT,Somewhat Dissatisfied,15.7,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_GAIT,Somewhat Satisfied,35.5,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_GAIT,Satisfied,43.8,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_GSSL,Dissatisfied,0.7,Group_study_spaces_in_the_library
+DS_GSSL,Somewhat Dissatisfied,2.3,Group_study_spaces_in_the_library
+DS_GSSL,Somewhat Satisfied,22.8,Group_study_spaces_in_the_library
+DS_GSSL,Satisfied,74.2,Group_study_spaces_in_the_library
+DS_ILL,Somewhat Dissatisfied,5.7,Interlibrary_loan
+DS_ILL,Somewhat Satisfied,24.9,Interlibrary_loan
+DS_ILL,Satisfied,69.4,Interlibrary_loan
+DS_LC,Dissatisfied,0.8,Physical_library_collections
+DS_LC,Somewhat Dissatisfied,6.4,Physical_library_collections
+DS_LC,Somewhat Satisfied,27.9,Physical_library_collections
+DS_LC,Satisfied,64.9,Physical_library_collections
+DS_LDB,Dissatisfied,0.7,Library_databases_(e.g._JSTOR)
+DS_LDB,Somewhat Dissatisfied,2.6,Library_databases_(e.g._JSTOR)
+DS_LDB,Somewhat Satisfied,21.5,Library_databases_(e.g._JSTOR)
+DS_LDB,Satisfied,75.2,Library_databases_(e.g._JSTOR)
+DS_LDL,Dissatisfied,0.9,LibrarySearch_(go_primo)
+DS_LDL,Somewhat Dissatisfied,8.1,LibrarySearch_(go_primo)
+DS_LDL,Somewhat Satisfied,34.7,LibrarySearch_(go_primo)
+DS_LDL,Satisfied,56.3,LibrarySearch_(go_primo)
+DS_LEC,Dissatisfied,0.4,Library_e-book_collections
+DS_LEC,Somewhat Dissatisfied,7.8,Library_e-book_collections
+DS_LEC,Somewhat Satisfied,30.7,Library_e-book_collections
+DS_LEC,Satisfied,61.1,Library_e-book_collections
+DS_LIAC,Dissatisfied,1.5,Library_research_instruction_for_academic_courses
+DS_LIAC,Somewhat Dissatisfied,9.2,Library_research_instruction_for_academic_courses
+DS_LIAC,Somewhat Satisfied,39.0,Library_research_instruction_for_academic_courses
+DS_LIAC,Satisfied,50.4,Library_research_instruction_for_academic_courses
+DS_LRS,Dissatisfied,0.4,Library_reference_research_services
+DS_LRS,Somewhat Dissatisfied,4.0,Library_reference_research_services
+DS_LRS,Somewhat Satisfied,35.3,Library_reference_research_services
+DS_LRS,Satisfied,60.4,Library_reference_research_services
+DS_LSG,Dissatisfied,1.0,Library_Subject_Guides_(go_guides)
+DS_LSG,Somewhat Dissatisfied,7.8,Library_Subject_Guides_(go_guides)
+DS_LSG,Somewhat Satisfied,36.9,Library_Subject_Guides_(go_guides)
+DS_LSG,Satisfied,54.4,Library_Subject_Guides_(go_guides)
+DS_OLS,Dissatisfied,0.3,Overall_library_service
+DS_OLS,Somewhat Dissatisfied,0.6,Overall_library_service
+DS_OLS,Somewhat Satisfied,18.9,Overall_library_service
+DS_OLS,Satisfied,80.1,Overall_library_service
+DS_PWAC,Dissatisfied,2.3,Performance_of_wireless_access_on_campus
+DS_PWAC,Somewhat Dissatisfied,12.9,Performance_of_wireless_access_on_campus
+DS_PWAC,Somewhat Satisfied,35.6,Performance_of_wireless_access_on_campus
+DS_PWAC,Satisfied,49.2,Performance_of_wireless_access_on_campus
+DS_SGAIT,Dissatisfied,8.8,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+DS_SGAIT,Somewhat Dissatisfied,21.8,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+DS_SGAIT,Somewhat Satisfied,31.1,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+DS_SGAIT,Satisfied,38.3,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)

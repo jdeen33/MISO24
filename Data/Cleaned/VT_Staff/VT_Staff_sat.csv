@@ -1,0 +1,80 @@
+service,Value,Percentage,service_long
+DS_AWAC,Dissatisfied,1.7,Availability_of_wireless_access_on_campus
+DS_AWAC,Somewhat Dissatisfied,8.2,Availability_of_wireless_access_on_campus
+DS_AWAC,Somewhat Satisfied,26.3,Availability_of_wireless_access_on_campus
+DS_AWAC,Satisfied,63.8,Availability_of_wireless_access_on_campus
+DS_BL,Dissatisfied,1.4,Borrowing_laptops
+DS_BL,Somewhat Dissatisfied,2.8,Borrowing_laptops
+DS_BL,Somewhat Satisfied,12.3,Borrowing_laptops
+DS_BL,Satisfied,83.4,Borrowing_laptops
+DS_CFCPS,Dissatisfied,0.8,Technology_help_desk_schedule
+DS_CFCPS,Somewhat Dissatisfied,1.3,Technology_help_desk_schedule
+DS_CFCPS,Somewhat Satisfied,18.1,Technology_help_desk_schedule
+DS_CFCPS,Satisfied,79.8,Technology_help_desk_schedule
+DS_CMS,Dissatisfied,1.0,Canvas
+DS_CMS,Somewhat Dissatisfied,3.1,Canvas
+DS_CMS,Somewhat Satisfied,24.7,Canvas
+DS_CMS,Satisfied,71.1,Canvas
+DS_CMSS,Dissatisfied,2.6,Canvas_support
+DS_CMSS,Somewhat Dissatisfied,2.6,Canvas_support
+DS_CMSS,Somewhat Satisfied,20.5,Canvas_support
+DS_CMSS,Satisfied,74.4,Canvas_support
+DS_CS,Dissatisfied,1.1,Online_collaborative_software
+DS_CS,Somewhat Dissatisfied,4.2,Online_collaborative_software
+DS_CS,Somewhat Satisfied,25.4,Online_collaborative_software
+DS_CS,Satisfied,69.3,Online_collaborative_software
+DS_CTS,Dissatisfied,7.2,Campus_telephone_services
+DS_CTS,Somewhat Dissatisfied,10.6,Campus_telephone_services
+DS_CTS,Somewhat Satisfied,27.3,Campus_telephone_services
+DS_CTS,Satisfied,54.9,Campus_telephone_services
+DS_DCR,Dissatisfied,2.4,Desktop_laptop_computer_replacement
+DS_DCR,Somewhat Dissatisfied,4.8,Desktop_laptop_computer_replacement
+DS_DCR,Somewhat Satisfied,23.7,Desktop_laptop_computer_replacement
+DS_DCR,Satisfied,69.1,Desktop_laptop_computer_replacement
+DS_ELCS,Dissatisfied,3.1,Ease_of_logging_into_campus_systems
+DS_ELCS,Somewhat Dissatisfied,13.3,Ease_of_logging_into_campus_systems
+DS_ELCS,Somewhat Satisfied,33.7,Ease_of_logging_into_campus_systems
+DS_ELCS,Satisfied,49.9,Ease_of_logging_into_campus_systems
+DS_FPC,Dissatisfied,0.5,Technology_help_desk
+DS_FPC,Somewhat Dissatisfied,4.1,Technology_help_desk
+DS_FPC,Somewhat Satisfied,20.5,Technology_help_desk
+DS_FPC,Satisfied,74.9,Technology_help_desk
+DS_GAIT,Dissatisfied,2.5,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_GAIT,Somewhat Dissatisfied,10.1,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_GAIT,Somewhat Satisfied,34.2,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_GAIT,Satisfied,53.2,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_ITSPP,Dissatisfied,0.5,Information_technology_security_policies_and_procedures
+DS_ITSPP,Somewhat Dissatisfied,2.3,Information_technology_security_policies_and_procedures
+DS_ITSPP,Somewhat Satisfied,24.7,Information_technology_security_policies_and_procedures
+DS_ITSPP,Satisfied,72.4,Information_technology_security_policies_and_procedures
+DS_OCS,Dissatisfied,0.8,Overall_computing_service
+DS_OCS,Somewhat Dissatisfied,3.2,Overall_computing_service
+DS_OCS,Somewhat Satisfied,26.1,Overall_computing_service
+DS_OCS,Satisfied,70.0,Overall_computing_service
+DS_OMOS,Dissatisfied,2.6,Overall_DLINQ_services
+DS_OMOS,Somewhat Dissatisfied,1.0,Overall_DLINQ_services
+DS_OMOS,Somewhat Satisfied,23.3,Overall_DLINQ_services
+DS_OMOS,Satisfied,73.1,Overall_DLINQ_services
+DS_PWAC,Dissatisfied,3.9,Performance_of_wireless_access_on_campus
+DS_PWAC,Somewhat Dissatisfied,12.3,Performance_of_wireless_access_on_campus
+DS_PWAC,Somewhat Satisfied,30.6,Performance_of_wireless_access_on_campus
+DS_PWAC,Satisfied,53.3,Performance_of_wireless_access_on_campus
+DS_RCTN,Dissatisfied,2.4,Responsiveness_to_your_changing_information_technology_needs
+DS_RCTN,Somewhat Dissatisfied,7.9,Responsiveness_to_your_changing_information_technology_needs
+DS_RCTN,Somewhat Satisfied,30.8,Responsiveness_to_your_changing_information_technology_needs
+DS_RCTN,Satisfied,58.8,Responsiveness_to_your_changing_information_technology_needs
+DS_SGAIT,Somewhat Dissatisfied,14.5,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+DS_SGAIT,Somewhat Satisfied,30.6,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+DS_SGAIT,Satisfied,54.8,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+DS_SII,Dissatisfied,2.9,Support_for_your_innovative_ideas
+DS_SII,Somewhat Dissatisfied,7.3,Support_for_your_innovative_ideas
+DS_SII,Somewhat Satisfied,35.6,Support_for_your_innovative_ideas
+DS_SII,Satisfied,54.1,Support_for_your_innovative_ideas
+DS_STMS,Dissatisfied,1.7,Support_for_technology_in_meeting_spaces_classrooms
+DS_STMS,Somewhat Dissatisfied,3.1,Support_for_technology_in_meeting_spaces_classrooms
+DS_STMS,Somewhat Satisfied,20.8,Support_for_technology_in_meeting_spaces_classrooms
+DS_STMS,Satisfied,74.4,Support_for_technology_in_meeting_spaces_classrooms
+DS_TMS,Dissatisfied,1.4,Technology_in_meeting_spaces_classrooms
+DS_TMS,Somewhat Dissatisfied,2.4,Technology_in_meeting_spaces_classrooms
+DS_TMS,Somewhat Satisfied,23.7,Technology_in_meeting_spaces_classrooms
+DS_TMS,Satisfied,72.5,Technology_in_meeting_spaces_classrooms

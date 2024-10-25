@@ -1,0 +1,138 @@
+service,Value,Percentage,service_long
+DS_AORO,Somewhat Dissatisfied,3.4,Access_to_online_resources_from_off-campus
+DS_AORO,Somewhat Satisfied,39.0,Access_to_online_resources_from_off-campus
+DS_AORO,Satisfied,57.6,Access_to_online_resources_from_off-campus
+DS_AWAC,Somewhat Dissatisfied,1.7,Availability_of_wireless_access_on_campus
+DS_AWAC,Somewhat Satisfied,19.0,Availability_of_wireless_access_on_campus
+DS_AWAC,Satisfied,79.3,Availability_of_wireless_access_on_campus
+DS_CFCPS,Dissatisfied,3.6,Technology_help_desk_schedule
+DS_CFCPS,Somewhat Dissatisfied,16.4,Technology_help_desk_schedule
+DS_CFCPS,Somewhat Satisfied,16.4,Technology_help_desk_schedule
+DS_CFCPS,Satisfied,63.6,Technology_help_desk_schedule
+DS_CFUS,Dissatisfied,3.6,Copyright_and_Fair_Use_support
+DS_CFUS,Somewhat Dissatisfied,14.3,Copyright_and_Fair_Use_support
+DS_CFUS,Somewhat Satisfied,25.0,Copyright_and_Fair_Use_support
+DS_CFUS,Satisfied,57.1,Copyright_and_Fair_Use_support
+DS_CMS,Dissatisfied,3.2,Canvas
+DS_CMS,Somewhat Dissatisfied,1.6,Canvas
+DS_CMS,Somewhat Satisfied,30.6,Canvas
+DS_CMS,Satisfied,64.5,Canvas
+DS_CMSAS,Dissatisfied,3.9,Canvas_assignment_submission
+DS_CMSAS,Somewhat Dissatisfied,2.0,Canvas_assignment_submission
+DS_CMSAS,Somewhat Satisfied,29.4,Canvas_assignment_submission
+DS_CMSAS,Satisfied,64.7,Canvas_assignment_submission
+DS_CMSGB,Dissatisfied,7.7,Canvas_grade_book
+DS_CMSGB,Somewhat Dissatisfied,7.7,Canvas_grade_book
+DS_CMSGB,Somewhat Satisfied,30.8,Canvas_grade_book
+DS_CMSGB,Satisfied,53.8,Canvas_grade_book
+DS_CMSOQ,Dissatisfied,10.3,Canvas_online_quizzes
+DS_CMSOQ,Somewhat Dissatisfied,10.3,Canvas_online_quizzes
+DS_CMSOQ,Somewhat Satisfied,37.9,Canvas_online_quizzes
+DS_CMSOQ,Satisfied,41.4,Canvas_online_quizzes
+DS_CS,Somewhat Dissatisfied,2.6,Online_collaborative_software
+DS_CS,Somewhat Satisfied,48.7,Online_collaborative_software
+DS_CS,Satisfied,48.7,Online_collaborative_software
+DS_CTS,Dissatisfied,6.1,Campus_telephone_services
+DS_CTS,Somewhat Dissatisfied,12.1,Campus_telephone_services
+DS_CTS,Somewhat Satisfied,30.3,Campus_telephone_services
+DS_CTS,Satisfied,51.5,Campus_telephone_services
+DS_FPC,Dissatisfied,1.6,Technology_help_desk
+DS_FPC,Somewhat Dissatisfied,13.1,Technology_help_desk
+DS_FPC,Somewhat Satisfied,19.7,Technology_help_desk
+DS_FPC,Satisfied,65.6,Technology_help_desk
+DS_GAIT,Dissatisfied,4.7,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_GAIT,Somewhat Dissatisfied,14.0,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_GAIT,Somewhat Satisfied,39.5,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_GAIT,Satisfied,41.9,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+DS_HPC,Dissatisfied,3.3,High_performance_computing
+DS_HPC,Somewhat Dissatisfied,13.3,High_performance_computing
+DS_HPC,Somewhat Satisfied,36.7,High_performance_computing
+DS_HPC,Satisfied,46.7,High_performance_computing
+DS_IDS,Somewhat Dissatisfied,2.2,DLINQ_Instructional_Design_Services
+DS_IDS,Somewhat Satisfied,32.6,DLINQ_Instructional_Design_Services
+DS_IDS,Satisfied,65.2,DLINQ_Instructional_Design_Services
+DS_ILDA,Dissatisfied,2.6,Your_input_into_library_decisions_that_affect_you
+DS_ILDA,Somewhat Dissatisfied,2.6,Your_input_into_library_decisions_that_affect_you
+DS_ILDA,Somewhat Satisfied,30.8,Your_input_into_library_decisions_that_affect_you
+DS_ILDA,Satisfied,64.1,Your_input_into_library_decisions_that_affect_you
+DS_ITS,Somewhat Dissatisfied,5.8,Instructional_technology_support
+DS_ITS,Somewhat Satisfied,32.7,Instructional_technology_support
+DS_ITS,Satisfied,61.5,Instructional_technology_support
+DS_LC,Somewhat Dissatisfied,9.5,Physical_library_collections
+DS_LC,Somewhat Satisfied,38.1,Physical_library_collections
+DS_LC,Satisfied,52.4,Physical_library_collections
+DS_LDB,Somewhat Dissatisfied,7.5,Library_databases_(e.g._JSTOR)
+DS_LDB,Somewhat Satisfied,35.8,Library_databases_(e.g._JSTOR)
+DS_LDB,Satisfied,56.6,Library_databases_(e.g._JSTOR)
+DS_LDL,Somewhat Dissatisfied,9.1,LibrarySearch_(go_primoca)
+DS_LDL,Somewhat Satisfied,31.8,LibrarySearch_(go_primoca)
+DS_LDL,Satisfied,59.1,LibrarySearch_(go_primoca)
+DS_LEC,Somewhat Dissatisfied,13.3,Library_e-book_collections
+DS_LEC,Somewhat Satisfied,51.1,Library_e-book_collections
+DS_LEC,Satisfied,35.6,Library_e-book_collections
+DS_LIAC,Somewhat Dissatisfied,2.3,Library_research_instruction_for_academic_courses
+DS_LIAC,Somewhat Satisfied,31.8,Library_research_instruction_for_academic_courses
+DS_LIAC,Satisfied,65.9,Library_research_instruction_for_academic_courses
+DS_LRS,Somewhat Dissatisfied,4.0,Library_reference_research_services
+DS_LRS,Somewhat Satisfied,24.0,Library_reference_research_services
+DS_LRS,Satisfied,72.0,Library_reference_research_services
+DS_LSSR,Dissatisfied,2.6,Library_support_for_your_scholarly_research
+DS_LSSR,Somewhat Satisfied,30.8,Library_support_for_your_scholarly_research
+DS_LSSR,Satisfied,66.7,Library_support_for_your_scholarly_research
+DS_LWS,Somewhat Satisfied,38.9,Institute_Library_web_site_(go_miislibrary)_(e.g._library_hours__policies)
+DS_LWS,Satisfied,61.1,Institute_Library_web_site_(go_miislibrary)_(e.g._library_hours__policies)
+DS_OAV,Somewhat Dissatisfied,3.8,Online_audio_video_for_academic_or_work_purposes
+DS_OAV,Somewhat Satisfied,35.8,Online_audio_video_for_academic_or_work_purposes
+DS_OAV,Satisfied,60.4,Online_audio_video_for_academic_or_work_purposes
+DS_OCS,Dissatisfied,3.8,Overall_computing_service
+DS_OCS,Somewhat Dissatisfied,3.8,Overall_computing_service
+DS_OCS,Somewhat Satisfied,35.8,Overall_computing_service
+DS_OCS,Satisfied,56.6,Overall_computing_service
+DS_OLS,Dissatisfied,1.8,Overall_library_service
+DS_OLS,Somewhat Satisfied,23.2,Overall_library_service
+DS_OLS,Satisfied,75.0,Overall_library_service
+DS_OMOS,Dissatisfied,1.9,Overall_DLINQ_services
+DS_OMOS,Somewhat Satisfied,35.2,Overall_DLINQ_services
+DS_OMOS,Satisfied,63.0,Overall_DLINQ_services
+DS_OWS,Somewhat Satisfied,41.2,DLINQ_website
+DS_OWS,Satisfied,58.8,DLINQ_website
+DS_PCR,Somewhat Dissatisfied,3.0,Physical_course_reserves
+DS_PCR,Somewhat Satisfied,24.2,Physical_course_reserves
+DS_PCR,Satisfied,72.7,Physical_course_reserves
+DS_PWAC,Somewhat Dissatisfied,3.4,Performance_of_wireless_access_on_campus
+DS_PWAC,Somewhat Satisfied,27.6,Performance_of_wireless_access_on_campus
+DS_PWAC,Satisfied,69.0,Performance_of_wireless_access_on_campus
+DS_RCLN,Dissatisfied,2.0,Responsiveness_to_your_changing_library_needs
+DS_RCLN,Somewhat Dissatisfied,4.1,Responsiveness_to_your_changing_library_needs
+DS_RCLN,Somewhat Satisfied,30.6,Responsiveness_to_your_changing_library_needs
+DS_RCLN,Satisfied,63.3,Responsiveness_to_your_changing_library_needs
+DS_RCTN,Dissatisfied,1.7,Responsiveness_to_your_changing_information_technology_needs
+DS_RCTN,Somewhat Dissatisfied,10.0,Responsiveness_to_your_changing_information_technology_needs
+DS_RCTN,Somewhat Satisfied,30.0,Responsiveness_to_your_changing_information_technology_needs
+DS_RCTN,Satisfied,58.3,Responsiveness_to_your_changing_information_technology_needs
+DS_RVLC,Somewhat Dissatisfied,5.0,Range_of_viewpoints_represented_in_the_library's_collections
+DS_RVLC,Somewhat Satisfied,35.0,Range_of_viewpoints_represented_in_the_library's_collections
+DS_RVLC,Satisfied,60.0,Range_of_viewpoints_represented_in_the_library's_collections
+DS_SGAIT,Dissatisfied,2.8,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+DS_SGAIT,Somewhat Dissatisfied,16.7,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+DS_SGAIT,Somewhat Satisfied,36.1,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+DS_SGAIT,Satisfied,44.4,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+DS_SII,Dissatisfied,4.7,Support_for_your_innovative_ideas
+DS_SII,Somewhat Dissatisfied,14.0,Support_for_your_innovative_ideas
+DS_SII,Somewhat Satisfied,27.9,Support_for_your_innovative_ideas
+DS_SII,Satisfied,53.5,Support_for_your_innovative_ideas
+DS_STMS,Somewhat Dissatisfied,10.7,Support_for_technology_in_meeting_spaces_classrooms
+DS_STMS,Somewhat Satisfied,33.9,Support_for_technology_in_meeting_spaces_classrooms
+DS_STMS,Satisfied,55.4,Support_for_technology_in_meeting_spaces_classrooms
+DS_TMS,Dissatisfied,1.7,Technology_in_meeting_spaces_classrooms
+DS_TMS,Somewhat Dissatisfied,15.0,Technology_in_meeting_spaces_classrooms
+DS_TMS,Somewhat Satisfied,38.3,Technology_in_meeting_spaces_classrooms
+DS_TMS,Satisfied,45.0,Technology_in_meeting_spaces_classrooms
+IMP_IDS,Dissatisfied,15.2,How_important_are_these_services_to_you?_-_DLINQ_Instructional_Design_Services
+IMP_IDS,Somewhat Dissatisfied,25.8,How_important_are_these_services_to_you?_-_DLINQ_Instructional_Design_Services
+IMP_IDS,Somewhat Satisfied,28.8,How_important_are_these_services_to_you?_-_DLINQ_Instructional_Design_Services
+IMP_IDS,Satisfied,30.3,How_important_are_these_services_to_you?_-_DLINQ_Instructional_Design_Services
+USE_IDS,Dissatisfied,36.6,Over_the_course_of_a_semester__on_average__how_often_do_you_use_the_following_services?_-_DLINQ_Instructional_Design_Services
+USE_IDS,Somewhat Dissatisfied,45.1,Over_the_course_of_a_semester__on_average__how_often_do_you_use_the_following_services?_-_DLINQ_Instructional_Design_Services
+USE_IDS,Somewhat Satisfied,11.3,Over_the_course_of_a_semester__on_average__how_often_do_you_use_the_following_services?_-_DLINQ_Instructional_Design_Services
+USE_IDS,Satisfied,7.0,Over_the_course_of_a_semester__on_average__how_often_do_you_use_the_following_services?_-_DLINQ_Instructional_Design_Services

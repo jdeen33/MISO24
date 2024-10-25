@@ -1,0 +1,37 @@
+service,Value,Percentage,service_long
+INF_AATD,Not informed,30.8,Availability_of_assistive_technologies_to_address_disabilities
+INF_AATD,Somewhat informed,38.5,Availability_of_assistive_technologies_to_address_disabilities
+INF_AATD,Informed,24.6,Availability_of_assistive_technologies_to_address_disabilities
+INF_AATD,Very Informed,6.2,Availability_of_assistive_technologies_to_address_disabilities
+INF_ALS,Not informed,6.1,Available_library_services
+INF_ALS,Somewhat informed,40.9,Available_library_services
+INF_ALS,Informed,43.9,Available_library_services
+INF_ALS,Very Informed,9.1,Available_library_services
+INF_ATRW,Not informed,3.0,Availability_of_technology_learning_resources_and_workshops
+INF_ATRW,Somewhat informed,50.0,Availability_of_technology_learning_resources_and_workshops
+INF_ATRW,Informed,37.9,Availability_of_technology_learning_resources_and_workshops
+INF_ATRW,Very Informed,9.1,Availability_of_technology_learning_resources_and_workshops
+INF_ATS,Not informed,3.0,Available_technology_services
+INF_ATS,Somewhat informed,52.2,Available_technology_services
+INF_ATS,Informed,34.3,Available_technology_services
+INF_ATS,Very Informed,10.4,Available_technology_services
+INF_CCFUN,Not informed,36.9,Who_to_contact_for_your_copyright_and_Fair_Use_needs
+INF_CCFUN,Somewhat informed,30.8,Who_to_contact_for_your_copyright_and_Fair_Use_needs
+INF_CCFUN,Informed,26.2,Who_to_contact_for_your_copyright_and_Fair_Use_needs
+INF_CCFUN,Very Informed,6.2,Who_to_contact_for_your_copyright_and_Fair_Use_needs
+INF_CFU,Not informed,25.8,Copyright_and_Fair_Use
+INF_CFU,Somewhat informed,47.0,Copyright_and_Fair_Use
+INF_CFU,Informed,22.7,Copyright_and_Fair_Use
+INF_CFU,Very Informed,4.5,Copyright_and_Fair_Use
+INF_CLN,Not informed,9.2,Who_to_contact_for_your_library_needs
+INF_CLN,Somewhat informed,32.3,Who_to_contact_for_your_library_needs
+INF_CLN,Informed,47.7,Who_to_contact_for_your_library_needs
+INF_CLN,Very Informed,10.8,Who_to_contact_for_your_library_needs
+INF_GAIT,Not informed,14.9,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+INF_GAIT,Somewhat informed,46.3,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+INF_GAIT,Informed,29.9,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+INF_GAIT,Very Informed,9.0,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)
+INF_RMLC,Not informed,10.8,How_to_request_materials_be_added_to_the_library_collection
+INF_RMLC,Somewhat informed,38.5,How_to_request_materials_be_added_to_the_library_collection
+INF_RMLC,Informed,33.8,How_to_request_materials_be_added_to_the_library_collection
+INF_RMLC,Very Informed,16.9,How_to_request_materials_be_added_to_the_library_collection

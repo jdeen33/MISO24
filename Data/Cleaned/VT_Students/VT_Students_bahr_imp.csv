@@ -1,0 +1,92 @@
+service,Value,Percentage,service_long
+IMP_AWAC,Not Important,3.3,Availability_of_wireless_access_on_campus
+IMP_AWAC,Somewhat Important,3.9,Availability_of_wireless_access_on_campus
+IMP_AWAC,Important,15.5,Availability_of_wireless_access_on_campus
+IMP_AWAC,Very Important,77.3,Availability_of_wireless_access_on_campus
+IMP_BL,Not Important,38.8,Borrowing_laptops
+IMP_BL,Somewhat Important,26.6,Borrowing_laptops
+IMP_BL,Important,20.4,Borrowing_laptops
+IMP_BL,Very Important,14.2,Borrowing_laptops
+IMP_BTE,Not Important,28.2,Borrowing_technology_equipment
+IMP_BTE,Somewhat Important,30.2,Borrowing_technology_equipment
+IMP_BTE,Important,27.6,Borrowing_technology_equipment
+IMP_BTE,Very Important,14.0,Borrowing_technology_equipment
+IMP_CFCPS,Not Important,21.7,Technology_help_desk_schedule
+IMP_CFCPS,Somewhat Important,33.4,Technology_help_desk_schedule
+IMP_CFCPS,Important,27.4,Technology_help_desk_schedule
+IMP_CFCPS,Very Important,17.5,Technology_help_desk_schedule
+IMP_CLS,Not Important,11.5,The_library_schedule
+IMP_CLS,Somewhat Important,25.5,The_library_schedule
+IMP_CLS,Important,31.8,The_library_schedule
+IMP_CLS,Very Important,31.2,The_library_schedule
+IMP_CMS,Somewhat Important,1.8,Canvas
+IMP_CMS,Important,12.2,Canvas
+IMP_CMS,Very Important,86.1,Canvas
+IMP_CMSAS,Not Important,1.2,Canvas_assignment_submission
+IMP_CMSAS,Somewhat Important,4.3,Canvas_assignment_submission
+IMP_CMSAS,Important,20.7,Canvas_assignment_submission
+IMP_CMSAS,Very Important,73.9,Canvas_assignment_submission
+IMP_CMSGB,Not Important,9.1,Canvas_grade_book
+IMP_CMSGB,Somewhat Important,13.4,Canvas_grade_book
+IMP_CMSGB,Important,24.3,Canvas_grade_book
+IMP_CMSGB,Very Important,53.2,Canvas_grade_book
+IMP_CMSOQ,Not Important,16.6,Canvas_online_quizzes
+IMP_CMSOQ,Somewhat Important,24.5,Canvas_online_quizzes
+IMP_CMSOQ,Important,26.3,Canvas_online_quizzes
+IMP_CMSOQ,Very Important,32.6,Canvas_online_quizzes
+IMP_FPC,Not Important,15.0,Technology_help_desk
+IMP_FPC,Somewhat Important,30.6,Technology_help_desk
+IMP_FPC,Important,33.4,Technology_help_desk
+IMP_FPC,Very Important,20.9,Technology_help_desk
+IMP_GAIT,Not Important,42.0,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+IMP_GAIT,Somewhat Important,31.7,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+IMP_GAIT,Important,14.1,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+IMP_GAIT,Very Important,12.2,Generative_AI_tools_(e.g.__ChatGPT__Bard__ChatPDF)_for_academic_or_work_purposes
+IMP_GSSL,Not Important,6.1,Group_study_spaces_in_the_library
+IMP_GSSL,Somewhat Important,16.6,Group_study_spaces_in_the_library
+IMP_GSSL,Important,32.2,Group_study_spaces_in_the_library
+IMP_GSSL,Very Important,45.1,Group_study_spaces_in_the_library
+IMP_ILL,Not Important,16.5,Interlibrary_loan
+IMP_ILL,Somewhat Important,27.6,Interlibrary_loan
+IMP_ILL,Important,26.4,Interlibrary_loan
+IMP_ILL,Very Important,29.5,Interlibrary_loan
+IMP_LC,Not Important,16.3,Physical_library_collections
+IMP_LC,Somewhat Important,27.6,Physical_library_collections
+IMP_LC,Important,32.2,Physical_library_collections
+IMP_LC,Very Important,23.9,Physical_library_collections
+IMP_LDB,Not Important,4.8,Library_databases_(e.g._JSTOR)
+IMP_LDB,Somewhat Important,11.3,Library_databases_(e.g._JSTOR)
+IMP_LDB,Important,31.0,Library_databases_(e.g._JSTOR)
+IMP_LDB,Very Important,52.8,Library_databases_(e.g._JSTOR)
+IMP_LDL,Not Important,27.5,LibrarySearch_(go_primo)
+IMP_LDL,Somewhat Important,28.9,LibrarySearch_(go_primo)
+IMP_LDL,Important,26.9,LibrarySearch_(go_primo)
+IMP_LDL,Very Important,16.7,LibrarySearch_(go_primo)
+IMP_LEC,Not Important,13.8,Library_e-book_collections
+IMP_LEC,Somewhat Important,23.5,Library_e-book_collections
+IMP_LEC,Important,35.5,Library_e-book_collections
+IMP_LEC,Very Important,27.2,Library_e-book_collections
+IMP_LIAC,Not Important,15.7,Library_research_instruction_for_academic_courses
+IMP_LIAC,Somewhat Important,32.1,Library_research_instruction_for_academic_courses
+IMP_LIAC,Important,35.8,Library_research_instruction_for_academic_courses
+IMP_LIAC,Very Important,16.4,Library_research_instruction_for_academic_courses
+IMP_LRS,Not Important,11.2,Library_reference_research_services
+IMP_LRS,Somewhat Important,26.7,Library_reference_research_services
+IMP_LRS,Important,41.0,Library_reference_research_services
+IMP_LRS,Very Important,21.0,Library_reference_research_services
+IMP_LSG,Not Important,32.2,Library_Subject_Guides_(go_guides)
+IMP_LSG,Somewhat Important,32.2,Library_Subject_Guides_(go_guides)
+IMP_LSG,Important,25.9,Library_Subject_Guides_(go_guides)
+IMP_LSG,Very Important,9.6,Library_Subject_Guides_(go_guides)
+IMP_OLS,Not Important,2.1,Overall_library_service
+IMP_OLS,Somewhat Important,8.9,Overall_library_service
+IMP_OLS,Important,42.0,Overall_library_service
+IMP_OLS,Very Important,47.0,Overall_library_service
+IMP_PWAC,Not Important,3.9,Performance_of_wireless_access_on_campus
+IMP_PWAC,Somewhat Important,3.9,Performance_of_wireless_access_on_campus
+IMP_PWAC,Important,15.0,Performance_of_wireless_access_on_campus
+IMP_PWAC,Very Important,77.2,Performance_of_wireless_access_on_campus
+IMP_SGAIT,Not Important,45.7,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+IMP_SGAIT,Somewhat Important,29.0,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+IMP_SGAIT,Important,13.9,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
+IMP_SGAIT,Very Important,11.4,Support_for_the_use_of_Generative_AI_Tools_(e.g.__ChatGPT__Bard__ChatPDF)
